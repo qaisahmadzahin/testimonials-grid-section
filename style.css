@@ -14,7 +14,7 @@ body {
     justify-content: center;
     max-width: 1400px;
     min-height: 100vh;
-    font-size: 13px;
+    font-size: 0.8125rem;
     background-color: var(--Grey-100);
 }
 
