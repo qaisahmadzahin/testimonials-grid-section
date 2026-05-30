@@ -200,7 +200,7 @@ body {
     border-radius: 50%;
 }
 
-@media screen and (max-width:26.25){
+@media screen and (max-width:26.25rem){
 
     .wrapper{
         padding: 24px;
